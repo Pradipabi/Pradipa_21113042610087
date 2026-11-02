@@ -1,0 +1,1 @@
+print("resbob pernah berkata, yang dicari dalam hidup ini ketenangan, bukan kebahagiaan. karena kebahagiaan itu hanya sesaat, sedangkan ketenangan itu abadi.   ")
